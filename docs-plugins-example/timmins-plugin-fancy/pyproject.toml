@@ -1,0 +1,6 @@
+[project]
+name = "timmins-plugin-fancy"
+version = "0.1.0"
+
+[project.entry-points."timmins.display"]
+excl = "timmins_plugin_fancy:excl_display"
